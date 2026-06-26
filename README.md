@@ -1,2 +1,5 @@
 # crispy-memory
-we are testing something
+Abraham Lincoln
+Gerald Ford 
+Ronald Reagan
+George H.W Bush
